@@ -17,6 +17,9 @@
 <br />
 
 ###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitajima2910&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitajima2910&layout=compact)](https://github.com/kitajima2910/github-readme-stats)
 
+###
 [website]: https://javadocfast.blogspot.com
 [facebook]: https://www.facebook.com/ts2styles
