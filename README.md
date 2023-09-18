@@ -52,7 +52,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/kitajima2910/kitajima2910/output/snake.svg" alt="Snake animation" />
-
-###
