@@ -14,7 +14,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/ebc5f79440b014691fb554090298eba5bbcce45f4b613db6c8658b411c4ddb4f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6b6974616a696d61323931302f636f756e742e7376673f"  />
+  <img height="200" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-34-881_512.gif"  />
 </div>
 
 ###
