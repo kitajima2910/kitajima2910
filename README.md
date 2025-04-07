@@ -1,11 +1,11 @@
-<h1 align="center">~ RnD ~</h1>
+<h1 align="center">~ 🔬 RnD | Research & Developer 🔧 ~</h1>
 
 ###
 
 <br clear="both">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Guys+%F0%9F%91%8B%2C+I'm+2910!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey+I'm+Kitajima2910+%7C+R%26D+Dev;💡+Code+is+Poetry%2C+Logic+is+Art.;🔧+Tools+don't+build+great+devs%2C+habits+do.;🧩+Fixing+a+bug+is+unlocking+a+story.;⏳+Keep+coding+until+magic+feels+normal." alt="Typing SVG" />
 </p>
 
 ###
