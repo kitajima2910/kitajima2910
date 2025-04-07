@@ -4,7 +4,9 @@
 
 <br clear="both">
 
-<h3 align="center">Hello Guys 👋, I'm 2910!</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Guys+%F0%9F%91%8B%2C+I'm+2910!" alt="Typing SVG" />
+</p>
 
 ###
 
