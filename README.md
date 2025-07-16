@@ -11,7 +11,6 @@
 ###
 
 <div align="center">
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kitajima2910)
 </div>
 
 ###
