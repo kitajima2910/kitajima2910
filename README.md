@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=kitajima2910&color=orange)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kitajima2910)
 </div>
 
 ###
