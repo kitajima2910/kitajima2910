@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kitajima2910/count.svg?"  />
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 </div>
 
 ###
